@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **ivan.corderocueva@gmail.com**
 
-- ⚡ Fun fact **great dancer 😎**
+- ⚡️ Fun fact **great dancer 😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

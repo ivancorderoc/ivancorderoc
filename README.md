@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">Iván Cordero</h1>
 <h2 align="center">Rookie Data Scientist👨🏻‍💻</h2>
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJ0bnl1MHJmN2JwMXl1Z21mMXljZnhoenVqbWhnOTRpZXE4NHAwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.gif"> 
+<img align="right" alt="Coding" width="300" style="max-width: 100%; height: auto;" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJ0bnl1MHJmN2JwMXl1Z21mMXljZnhoenVqbWhnOTRpZXE4NHAwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivancorderoc&label=Profile%20views&color=0e75b6&style=flat" alt="ivancorderoc" /> </p>
 
